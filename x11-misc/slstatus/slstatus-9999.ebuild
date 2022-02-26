@@ -6,7 +6,7 @@ inherit desktop multilib savedconfig toolchain-funcs git-r3 autotools
 
 DESCRIPTION="Suckless Status Tool"
 HOMEPAGE="https://tools.suckless.org/slstatus"
-SRC_URI="https://git.suckless.org/slstatus"
+EGIT_REPO_URI="https://git.suckless.org/slstatus"
 
 LICENSE="ISC"
 SLOT="0"
