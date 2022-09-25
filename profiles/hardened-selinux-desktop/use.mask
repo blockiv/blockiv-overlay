@@ -1,0 +1,2 @@
+# Enable persist flag for doas
+-persist
